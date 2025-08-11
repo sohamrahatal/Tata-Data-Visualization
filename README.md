@@ -56,7 +56,7 @@ areas has the potential to boost sales revenues and profitability.
 
 ### 4.	Screenshots / Demos
 The dashboard looks like :
-(https://github.com/sohamrahatal/Tata-Data-Visualization/blob/main/task_3-1.png)
-(https://github.com/sohamrahatal/Tata-Data-Visualization/blob/main/task_3-2.png)
-(https://github.com/sohamrahatal/Tata-Data-Visualization/blob/main/task_3-3.png)
-(https://github.com/sohamrahatal/Tata-Data-Visualization/blob/main/task_3-4.png)
+![Dashboard Preview](https://github.com/sohamrahatal/Tata-Data-Visualization/blob/main/task_3-1.png)
+![Dashboard Preview](https://github.com/sohamrahatal/Tata-Data-Visualization/blob/main/task_3-2.png)
+![Dashboard Preview](https://github.com/sohamrahatal/Tata-Data-Visualization/blob/main/task_3-3.png)
+![Dashboard Preview](https://github.com/sohamrahatal/Tata-Data-Visualization/blob/main/task_3-4.png)
